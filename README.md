@@ -158,9 +158,6 @@ ID, score
 ---
 
 ## 📊 Visualizations
-
-You produced two categories:
-
 ### **1. Dataset Visualization**
 Saved in `figures_dataset/`:
 - PCA & t-SNE of metric embeddings  
